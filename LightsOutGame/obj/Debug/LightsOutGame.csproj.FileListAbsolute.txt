@@ -1,0 +1,14 @@
+E:\programowanie\c\LightsOutGame\LightsOutGame\bin\Debug\LightsOutGame.exe.config
+E:\programowanie\c\LightsOutGame\LightsOutGame\bin\Debug\LightsOutGame.exe
+E:\programowanie\c\LightsOutGame\LightsOutGame\bin\Debug\LightsOutGame.pdb
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.csprojResolveAssemblyReference.cache
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.AboutForm.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.LevelEditorForm.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.MainForm.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.RandomModelCreator.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.Properties.Resources.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.SettingsForm.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.SolutionForm.resources
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.csproj.GenerateResource.Cache
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.exe
+E:\programowanie\c\LightsOutGame\LightsOutGame\obj\Debug\LightsOutGame.pdb

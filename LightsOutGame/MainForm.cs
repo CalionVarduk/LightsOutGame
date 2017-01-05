@@ -41,7 +41,7 @@ namespace LightsOutGame
         protected override void OnResize(EventArgs e)
         {
             base.OnResize(e);
-            Cells.View.Size = new Size(ClientSize.Width, ClientSize.Height - StatusStrip.Height - Cells.View.Top);
+            if(Cells != null) Cells.View.Size = new Size(ClientSize.Width, ClientSize.Height - StatusStrip.Height - Cells.View.Top);
         }
 
         protected override void OnKeyDown(KeyEventArgs e)

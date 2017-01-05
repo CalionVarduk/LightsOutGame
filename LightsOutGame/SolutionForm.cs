@@ -59,7 +59,7 @@ namespace LightsOutGame
         {
             base.OnResize(e);
             SolLabel.Left = (ClientSize.Width >> 1) - (SolLabel.Width >> 1);
-            Cells.View.Size = new Size(ClientSize.Width, ClientSize.Height - Cells.View.Top);
+            if(Cells != null) Cells.View.Size = new Size(ClientSize.Width, ClientSize.Height - StatusStrip.Height - Cells.View.Top);
         }
 
         private void Event_KeyDown(object sender, KeyEventArgs e)
